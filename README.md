@@ -20,18 +20,24 @@
 
 # 链接
 * 外部链接：[百度](https://www.baidu.com)
-* 内部连接：
+* 内部连接：  
   * 连接文件[readme](README.md)
   * 链接本文档内容[标题](README.md#标题)
-* 引用式链接： [百度] [baidu]
+* 引用式链接： [百度] [baidu]----不会
 
 
 
 # 图片
 
 # 代码块
+* 代码实现高亮
+'''pyhton
+print a
+'''
+    print a
 
 # 引用
+>gggg
 
 
 <!----ffjhdf---->
