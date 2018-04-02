@@ -31,20 +31,15 @@
 
 # 代码块
 
-* 代码实现高亮
+* 代码实现高亮（可以选择语言）
 ```pyhton
 hhh
 print a
 ```
-* 四个空格(要结尾)
-  print a
+
 * 行内代码
 这是行内代码`a`,
 
 # 引用
 >gggg
 
-
-<!----ffjhdf---->
-dfdf  
-[baidu]: https://www.baidu.com
