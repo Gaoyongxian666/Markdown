@@ -30,12 +30,16 @@
 # 图片
 
 # 代码块
+
 * 代码实现高亮
 ```pyhton
 hhh
 print a
 ```
-    print a
+* 四个空格
+    print a
+* 行内代码
+这是行内代码`a`,
 
 # 引用
 >gggg
