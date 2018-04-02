@@ -28,7 +28,7 @@
 
 
 # 图片
-![baidu](//www.baidu.com/img/baidu_jgylogo3.gif)
+![baidu](https://www.baidu.com/img/baidu_jgylogo3.gif)
 
 # 代码块
 
